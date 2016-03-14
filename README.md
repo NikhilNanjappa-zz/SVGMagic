@@ -1,12 +1,11 @@
-# see
+# SVG Animation App
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+> Don't forget to run `npm install` and `bower install`
 
-## Build & development
+## Tech stacks
 
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+- AngularJS
+- Bootstrap
+- JS
+- SVG SMIL
+- CSS - Animate , Transform, Translate
