@@ -4,8 +4,8 @@
 
 ## Tech stacks
 
-- AngularJS
+- CSS - Animate , Transform, Translate
+- SVG SMIL
 - Bootstrap
 - JS
-- SVG SMIL
-- CSS - Animate , Transform, Translate
+
